@@ -1,0 +1,21 @@
+{
+  "name": "hyper-chinese",
+  "version": "0.1.0",
+  "description": "Simplified Chinese localization plugin for Hyper terminal UI.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huanghanye0/hyper-chinese.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-plugin",
+    "chinese",
+    "i18n",
+    "localization"
+  ],
+  "scripts": {
+    "verify": "node scripts/verify.js"
+  }
+}
