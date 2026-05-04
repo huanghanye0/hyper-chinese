@@ -1,6 +1,6 @@
 {
   "name": "hyper-chinese",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simplified Chinese localization plugin for Hyper terminal UI.",
   "main": "index.js",
   "license": "MIT",
